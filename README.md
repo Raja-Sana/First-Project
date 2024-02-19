@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sana ul Haq</h1>
-<h3 align="center">A beginner Web and Mobile App Developer from Pakistan</h3>
+<h3 align="center">A beginner Web and Mobile App Developer</h3>
 <p align="left">
 </p>
 
